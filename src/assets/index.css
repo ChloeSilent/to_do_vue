@@ -1,0 +1,19 @@
+.central_items{
+    display: flex;
+    flew-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+input{
+    min-width: 300px;
+}
+
+.collection .collection-item.done {
+    background-color: green;
+    color: white;
+}
